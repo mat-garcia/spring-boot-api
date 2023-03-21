@@ -14,7 +14,7 @@
 
     #runing api
 
-    - Use maven Clen and Install.
+    - Use maven Clean and Install.
     - rename"jobintegracao-1.0.0.war" in Target directory to "jobintegracao.war" and 
       copy to Tomcat 9 / webapps directory and start server OR runing the main method " jobintegracaoAplication" in InteliJ IDE for
       use Tomcat enbed container of spring boot.
